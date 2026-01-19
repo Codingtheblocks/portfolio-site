@@ -1,0 +1,1 @@
+I asked an AI coding agent to create a developer step by step doc so any AI LLM could code the project if it follows it in order and this is the plan it made. Is there anything you would change or is this good?

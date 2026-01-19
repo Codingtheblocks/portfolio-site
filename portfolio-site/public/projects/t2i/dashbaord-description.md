@@ -1,0 +1,2 @@
+Built a custom desktop trading application using Electron, JavaScript, and Node.js. Integrated the Gains.trade API & SDK to auto-populate token search and fetch real-time perpetual contract data on Arbitrum. Implemented a secondary TwelveData API integration to backfill and merge historical market data for complete datasets. Added a backtesting engine (via a BacktestJS fork) to test and run JavaScript-based trading strategies directly inside the app. Delivered a modern UI with charting, token lookup, and automated testing features.
+

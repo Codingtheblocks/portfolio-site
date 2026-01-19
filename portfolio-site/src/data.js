@@ -911,7 +911,7 @@ export const projects = [
     id: "t2i-dashboard",
     title: "T2I Trading Dashboard",
     category: "Fintech / UI Design",
-    thumbnail: "/projects/t2i/dashbaord_final.JPG",
+    thumbnail: "projects/t2i/dashbaord_final.JPG",
     description: "End-to-end design and engineering of a custom trading dashboard using Electron and Gains.trade API.",
     details: {
       story: "This project started with a vision for a comprehensive trading interface. Using a text-to-image implementation workflow, I iterated on the design using AI prompts before building the final electron application.",
@@ -921,7 +921,7 @@ export const projects = [
           type: "Phase 1",
           title: "Prompt Iteration 1",
           align: "left",
-          image: "/projects/t2i/Image_fx (34).jpg",
+          image: "projects/t2i/Image_fx (34).jpg",
           text: "Initial Concept Generation: Defining the modular wireframe and data density. I started by asking for a layout inspired by Raydium and TradeStation.",
           visualContent: t2iPrompts.p34, // Full text for modal
           textContent: t2iPrompts.p34 // Also allow reading prompt from text side
@@ -930,7 +930,7 @@ export const projects = [
           type: "Phase 2",
           title: "Refining Aesthetics",
           align: "right",
-          image: "/projects/t2i/Image_fx (35).jpg",
+          image: "projects/t2i/Image_fx (35).jpg",
           text: "Refining the layout with neon glow accents and glassmorphic styles. I pushed for a darker, more premium look.",
           visualContent: t2iPrompts.p34, // Similar prompt
           textContent: t2iPrompts.p34
@@ -939,7 +939,7 @@ export const projects = [
           type: "Phase 3",
           title: "Alternative Concepts",
           align: "left",
-          image: "/projects/t2i/Image_fx (37).jpg",
+          image: "projects/t2i/Image_fx (37).jpg",
           text: "Exploring a more 'DeFi' aesthetic with rounded cards and softer shadows.",
           visualContent: t2iPrompts.p37,
           textContent: t2iPrompts.p37
@@ -948,7 +948,7 @@ export const projects = [
           type: "Final Build",
           title: "Production Implementation",
           align: "center",
-          image: "/projects/t2i/dashbaord_final.JPG",
+          image: "projects/t2i/dashbaord_final.JPG",
           text: "The final application delivered a pixel-perfect implementation of the generated designs, complete with real-time WebSocket data feeds and a fully functional backtesting interface.",
           visualContent: "Full tech stack: Electron, React, Node, Gains SDK..."
         }
@@ -959,7 +959,7 @@ export const projects = [
     id: "viral-automation",
     title: "Viral Automation Workflow",
     category: "Automation / AI",
-    thumbnail: "/projects/viral/finalvideo.JPG",
+    thumbnail: "projects/viral/finalvideo.JPG",
     description: "Interactive CLI workflow automating YouTube to TikTok video clipping with AI transcription.",
     details: {
       story: "A Python-based automation tool that takes long-form content and converts it into viral short-form clips using WhisperX for transcription and Gemini API for trend analysis.",
@@ -968,25 +968,25 @@ export const projects = [
         {
           type: "Step 1",
           title: "CLI Initialization",
-          image: "/projects/viral/step1.JPG",
+          image: "projects/viral/step1.JPG",
           text: "The workflow begins by initializing the video processing engine."
         },
         {
           type: "Step 2",
           title: "Segment Analysis",
-          image: "/projects/viral/step2.JPG",
+          image: "projects/viral/step2.JPG",
           text: "The AI analyzes video segments and timestamps for viral potential."
         },
         {
           type: "Step 3",
           title: "Transcription",
-          image: "/projects/viral/step3.JPG",
+          image: "projects/viral/step3.JPG",
           text: "Generating frame-perfect subtitles using WhisperX."
         },
         {
           type: "Final Output",
           title: "Rendered Clip",
-          image: "/projects/viral/finalvideo.JPG",
+          image: "projects/viral/finalvideo.JPG",
           text: "Final Output: A trendy, captioned short video ready for upload."
         }
       ]
@@ -996,7 +996,7 @@ export const projects = [
     id: "specs-ai",
     title: "Specs Driven AI Dev",
     category: "AI Engineering",
-    thumbnail: "/projects/specs/specsdriven.JPG",
+    thumbnail: "projects/specs/specsdriven.JPG",
     description: "Agentic workflow for generating robust technical specifications via AI chat iterations.",
     details: {
       story: "A meta-project demonstrating how to collaborate with LLMs to produce implementation-grade specifications. This process ensures high-quality code generation and architectural soundness.",

@@ -1,5 +1,4 @@
-Jacob Mohan
-Bunnell, Fl | 386-624-8197 | jacobdmohan@gmail.com | github.com/Codingtheblocks
+Jacob Mohan github.com/Codingtheblocks
 
 
 
